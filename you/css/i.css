@@ -1,0 +1,18 @@
+.fotoi{
+    width: 250px;
+    height:300px;
+    border-radius:100%;
+    margin-left: 219px;
+    
+}
+.divi{
+    width: 1220px;
+    height: 584px;
+    background:url(../img/i.jpg);
+}
+.foto2{
+    margin-left: 219px;
+}
+.r{
+    color: #fff;
+}

@@ -1,0 +1,61 @@
+body{
+    background:url(../img/YF1QRwEoL0U.jpg);
+    background-size:281px 281px;   
+}
+.i{
+    width: 685px;
+    height: 787px;
+    background:url(../img/b5860f75ecc06419cbbfb8fc33478dd8--heart-pictures-my-favorite-color.jpg)no-repeat;
+    background-size:685px 880px;
+    
+    display:table-cell;
+    
+}
+.foto1{
+    width: 250px;
+    height:300px;
+    border-radius:100%;
+    margin: 25px 218px;
+}
+.icon__img{
+    height: 25px;
+    width: 25px;
+    
+}
+.icoc__link/* a */{
+  margin-left: 15px;  
+}
+.icon-list/*ul*/{
+    
+}
+.icon-item/* li */{
+  display: inline-block;
+  margin-right: 20px;
+  margin: 15px;
+}
+h2{
+    margin: 0 auto;
+    margin-left: 295px;
+    font-size: 40px;
+    color: #000000;
+    font-family: cursive;
+}
+.w{
+    font-family: cursive;
+}
+.x{
+    margin-left: 20px;
+    
+}
+.she{
+   width: 685px;
+    height: 880px;
+    background:url(../img/i.jpg)no-repeat;
+    background-size:685px 880px;
+/*    margin-left:238px;*/
+    display:;
+}
+.k{
+    background:#000000;
+}
+
